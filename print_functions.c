@@ -18,7 +18,7 @@
 
  * @precision: Precision specification
 
- * @size: Size specifier
+ * @size: Size specifier. (Alx Team Project)
 
  * Return: Number of chars printed
 
