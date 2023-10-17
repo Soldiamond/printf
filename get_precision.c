@@ -9,7 +9,7 @@
 
  * @i: List of arguments to be printed.
 
- * @list: list of arguments.
+ * @list: list of arguments. (Alx Team Project)
 
  *
 
