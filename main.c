@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0
+ * Return: Always 0. (Alx Team Project)
  */
 int main(void)
 {
