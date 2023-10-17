@@ -4,7 +4,7 @@
  * get_precision - Calculates the precision for printing.
  * @format: Formatted string in which to print the arguments.
  * @i: List of arguments. (Alx Team Project)
- *
+ * by Imegits and Solution(Alx Team Project)
  * Return: Precision.
  */
 int get_precision(const char *format, int *i, va_list list)
