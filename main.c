@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0. (ImeGits and Soldiamond Alx Team Project)
+ * Return: Always 0
  */
 int main(void)
 {
@@ -42,4 +42,3 @@ int main(void)
     printf("Unknown:[%r]\n");
     return (0);
 }
-
