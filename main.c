@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0. (Alx Team Project)
+ * Return: Always 0. (ImeGits and Soldiamond Alx Team Project)
  */
 int main(void)
 {
