@@ -18,7 +18,7 @@
 
  * @precision: Precision specification
 
- * @size: Size specifier. (Alx Team Project)
+ * @size: Size specifier. (ImeGits and Soldiamond Alx Team Project)
 
  * Return: Number of chars printed
 
