@@ -9,7 +9,7 @@
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
- * Return: Number of chars printed. (Alx Team Project)
+ * Return: Number of chars printed. (ImeGits and Soldiamond Alx Team Project)
  */
 int print_unsigned(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
