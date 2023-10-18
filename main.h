@@ -22,7 +22,7 @@
  * struct fmt - Struct op
  *
  * @fmt: The format.
- * @fn: The function associated.
+ * @fn: The function associated. (Alx Team Project)
  */
 struct fmt
 {
@@ -52,10 +52,6 @@ int print_string(va_list types, char buffer[],
 	int flags, int width, int precision, int size);
 int print_percent(va_list types, char buffer[],
 	int flags, int width, int precision, int size);
-int print_dec(va_list types, char buffer[],
-
-        int flags, int width, int precision, int size
-);
 
 /* Functions to print numbers */
 int print_int(va_list types, char buffer[],
