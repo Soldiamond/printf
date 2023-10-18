@@ -22,7 +22,7 @@
  * struct fmt - Struct op
  *
  * @fmt: The format.
- * @fn: The function associated. (Alx Team Project)
+ * @fn: The function associated. (ImeGits and Soldiamond Alx Team Project)
  */
 struct fmt
 {
