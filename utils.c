@@ -4,7 +4,7 @@
  * is_printable - Evaluates if a char is printable
  * @c: Char to be evaluated.
  *
- * Return: 1 if c is printable, 0 otherwise. (Alx Team Project)
+ * Return: 1 if c is printable, 0 otherwise. (ImeGits and Soldiamond Alx Team Project)
  */
 int is_printable(char c)
 {

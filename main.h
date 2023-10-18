@@ -22,7 +22,7 @@
  * struct fmt - Struct op
  *
  * @fmt: The format.
- * @fn: The function associated. (Alx Team Project)
+ * @fn: The function associated. (ImeGits and Soldiamond Alx Team Project)
  */
 struct fmt
 {
@@ -91,6 +91,7 @@ int print_reverse(va_list types, char buffer[],
 /*Function to print a string in rot 13*/
 int print_rot13string(va_list types, char buffer[],
 	int flags, int width, int precision, int size);
+int print_bin(va_list val)
 
 /* width handler */
 int handle_write_char(char c, char buffer[],
